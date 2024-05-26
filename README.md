@@ -1,4 +1,4 @@
-# Space-Invaders
+# Invaders of Space
 A game created using python with easygui and pygame modules.
 
 This was a game that i created for my grade 12 final assignment. It uses images from online to act as sprites using the pygame module.
